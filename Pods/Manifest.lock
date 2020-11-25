@@ -1,0 +1,16 @@
+PODS:
+  - MTModuleKit (1.0.0)
+
+DEPENDENCIES:
+  - MTModuleKit
+
+SPEC REPOS:
+  trunk:
+    - MTModuleKit
+
+SPEC CHECKSUMS:
+  MTModuleKit: 128aa73d096a5d437f024e75aceeeec589b10333
+
+PODFILE CHECKSUM: 155e2cb00026c6ab6978a99e1698a91ad9fea264
+
+COCOAPODS: 1.10.0
